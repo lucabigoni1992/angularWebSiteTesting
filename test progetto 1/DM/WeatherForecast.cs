@@ -1,4 +1,4 @@
-namespace test_progetto_1
+namespace test_progetto_1.DM
 {
     public class WeatherForecast
     {
